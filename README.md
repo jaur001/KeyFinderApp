@@ -1,8 +1,8 @@
-###Key Finder App
+### Key Finder App
 
 This application is an IFTTT Desktop Application which checks daily the games that the users are interested, and if the price is lower than price selected by the use, then the user is notified by mail with the games and prices that has been lowered.
 
-####Features
+#### Features
 The app was developed in Java and has these features:
 *	It allows to have different accounts with different games selected.
 *	The Graphic User Interface was developed using JavaFX.
