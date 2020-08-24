@@ -15,5 +15,5 @@ To install, it is only needed to clone and execute the Main.class located in “
 
 ## Built by
 It was built it using:
-•	JavaFX – To develop the Graphic User Interface
-•	Maven – Dependency Management
+*	JavaFX – To develop the Graphic User Interface
+*	Maven – Dependency Management
